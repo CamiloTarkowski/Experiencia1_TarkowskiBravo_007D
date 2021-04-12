@@ -68,4 +68,23 @@
    font-size: large;
  }
 
+ /* Personalización página Quiénes somos */
+
+.qsomos{
+  background-color:#ffebcd;
+}
+
+.qsomos1{
+  background-color: rgb(255, 182, 182);
+  float: left;
+  width: 600px;
+  margin-left: 300px;
+}
+
+.qsomos2{
+  background-color: rgb(177, 188, 255);
+  float: right;
+  width: 520px;
+  margin-right: 300px;
+}
 
