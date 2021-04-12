@@ -1,0 +1,71 @@
+    body{
+    background: rgb(223, 237, 255);
+}
+  a{
+    color:rgb(255, 252, 230);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: -1px;
+    font-weight: bold;
+
+
+  }
+
+.centertext{
+    color: rgb(44, 44, 44);
+    text-align: center;
+  }
+.fondocolor{
+    background-color: rgb(158, 198, 250);;
+} 
+
+
+
+
+
+.derecha{
+    text-align: justify;
+    text-align: right;
+  }
+
+.derecha2{
+  text-align: justify;
+  text-align: right;
+  }
+
+.carousel {
+   width: 700px;
+   height: 500px;
+   float: left;
+   margin-left: 3%;
+ }
+
+ .texto1{
+   background-color: rgb(70, 77, 222);
+   float: right;
+   width: 900px;
+   margin-right: 50px;
+ }
+ .texto2{
+  background-color: rgb(255, 250, 158);
+  float: right;
+  width: 900px;
+  margin-right: 50px;
+  margin-top: 10px;
+}
+ footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+ }
+ .barcolor{
+   background-color: rgb(45, 59, 154);
+ }
+
+ .textopequeño{
+   font-size: large;
+ }
+
+
