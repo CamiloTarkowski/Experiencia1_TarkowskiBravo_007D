@@ -69,24 +69,25 @@
 
  /* Personalización página Quiénes somos */
 
-.qsomos{
+.qsomos{/*Historia*/
   background-color:rgb(234, 223, 136);
 }
 
-.qsomos1{
+.qsomos1{ /*Misión*/
   background-color: rgb(63, 63, 185);
-  float: left;
-  width: 600px;
-  margin-left: 300px;
+  width: 420px;
+  height:480px;
   margin-top: 20px;
+  float: right;
+  margin-right: 17%;
 }
 
-.qsomos2{
+.qsomos2{ /*Visión*/
   background-color: rgb(74, 91, 205);
-  float: right;
-  width: 520px;
-  margin-right: 300px;
+  width: 1175px;
+  margin-left: 17%;
   margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .principal{
@@ -97,12 +98,27 @@
 .historia{
   color:rgb(13, 17, 46)
 }
-h2{
+
+
+h2{ /*logo SG*/
   text-align: center;
 }
 
 h3{
-  margin-top: 10px;
+  margin-top: 20px;
   text-align: center;
 }
+.linkyt{
+  margin-top:20px;
+  margin-left: 17%;
+  left:10px;
+}
+
+.footerfalso{
+  height:200px;
+}
+p{
+  font-size: larger;
+}
+
 
